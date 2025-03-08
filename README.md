@@ -1,8 +1,4 @@
 # Download-tiktok-videos-without-watermark
-Download tiktok videos without watermark
-Below is a sample README.md that promotes your TikSaver iOS app using a range of trending keywords and a structured layout—all while staying within GitHub’s guidelines. You can adjust the sections or wording as needed:
-
----
 
 # TikSaver – Save & Collect Trending Videos
 
