@@ -28,10 +28,10 @@ In today’s digital world, staying updated with viral videos and trending socia
 ## Screenshots
 
 ### iPad View
-![TikSaver on iPad](https://via.placeholder.com/600x400?text=TikSaver+iPad+Screenshot)
+![TikSaver on iPad](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/c4/a7/aac4a7a9-1040-55aa-eea1-aae8568135c1/2064__U00d7_2752.png/626x0w.webp)
 
 ### iPhone View
-![TikSaver on iPhone](https://via.placeholder.com/400x800?text=TikSaver+iPhone+Screenshot)
+![TikSaver on iPhone](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/82/cc/2582ccb6-1c32-881a-231a-3482f589e695/1320__U00d7_2868px.png/460x0w.webp)
 
 ---
 
